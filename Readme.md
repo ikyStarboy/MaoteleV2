@@ -12,18 +12,13 @@
 </p>
 
 - [📝 **Note**](#-note)
-- [🚧 **Requirement**](#-requirement)
-- [📝 **Tutorial**](#-tutorial)
-- [💡 **How it works?**](#-how-it-works)
-- [🔔 **How to get notification when have new update?**](#-how-to-get-notification-when-have-new-update)
+- [🔔 **Main Feature**](#-main-feature)
 - [🆙 **How to Update**](#-how-to-update)
-- [🛠️ **How to create new commands**](#️-how-to-create-new-commands)
+- [🛠️ **Requirements**](#️-preparation-before-installation)
 - [💭 **Support**](#-support)
-- [📚 **Support Languages in source code**](#-support-languages-in-source-code)
-- [📌 **Common Problems**](#-common-problems)
-- [❌ **DO NOT USE THE ORIGINAL UNDERGRADUATE VERSION**](#-do-not-use-the-original-undergraduate-version)
-- [📸 **Screenshots**](#-screenshots)
-- [✨ **Copyright (C)**](#-copyright-c)
+- [📚 **How To Install**](#-how-to-install)
+- [📸 **Recommendation Hosting**](#-recommendation-hosting)
+- [✨ **Contributor**](#-contributor)
 - [📜 **License**](#-license)
 
 <hr>
@@ -32,7 +27,7 @@ Xiaomao-V2 adalah bot hybrid modern yang berjalan di dua platform sekaligus: **T
 
 ---
 
-## 🚀 Fitur Utama
+## 🚀 **Main Feature**
 
 * **Dual Platform**: Aktif di Telegram dan Discord hanya dengan satu kali run.
 * **Adaptive Menu**:
@@ -48,7 +43,7 @@ Xiaomao-V2 adalah bot hybrid modern yang berjalan di dua platform sekaligus: **T
 
 ---
 
-## 🛠️ Persiapan Sebelum Install
+## 🛠️ **Preparation Before Install**
 
 Pastikan kamu sudah menyiapkan:
 
@@ -60,7 +55,7 @@ Pastikan kamu sudah menyiapkan:
 
 ---
 
-## 📦 Cara Penginstalan (Step by Step)
+## 📦 **How to install**
 
 ### 1. Clone Repository
 ```bash 
@@ -102,7 +97,7 @@ npm start
 ```
 ---
 
-## 🌐 Hosting yang Disarankan
+## 🌐 **Recommendation Hosting**
 
 Untuk menjaga bot tetap online 24/7, gunakan layanan berikut:
 * VPS (Ubuntu/Debian): Rekomendasi utama (Gunakan pm2 atau screen).
@@ -111,7 +106,7 @@ Untuk menjaga bot tetap online 24/7, gunakan layanan berikut:
 
 ---
 
-## 👨‍💻 Kontributor
+## 👨‍💻 **Contributor**
 
 * [ikyStarboy](https://github.com/ikyStarboy) - GitHub
 * [Gemini Ai](gemini.google.com) - Assistant Developer
