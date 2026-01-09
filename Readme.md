@@ -16,7 +16,7 @@ Xiaomao-V2 adalah bot hybrid modern yang berjalan di dua platform sekaligus: **T
     * del: Hapus fitur yang tidak diinginkan lewat chat.
     * list: Cek semua file command yang terpasang.
 * **Hybrid Callad**: Fitur laporan user/panggilan admin yang bisa saling balas antar platform.
-* **Auto Restart**: Bot otomatis hidup kembali jika terjadi error atau crash (menggunakan start.sh).
+* **Auto Restart**: Bot otomatis hidup kembali jika terjadi error atau crash (menggunakan run.sh).
 
 ---
 
@@ -35,14 +35,17 @@ Pastikan kamu sudah menyiapkan:
 ## 📦 Cara Penginstalan (Step by Step)
 
 ### 1. Clone Repository
-$git clone [https://github.com/ikyStarboy/Xiaomao-V2$](https://github.com/ikyStarboy/Xiaomao-V2$) cd Xiaomao-V2
+```bash git clone [https://github.com/ikyStarboy/Xiaomao-V2$](https://github.com/ikyStarboy/Xiaomao-V2$) cd Xiaomao-V2
+```
 
 ### 2. Install Dependencies
-$ npm install
+```bash
+npm install
+```
 
 ### 3. Konfigurasi Bot
 Edit file settings.js:
-
+```bash
 module.exports = {
     botToken: "TOKEN_TELE_MU",
     TokenDc: "TOKEN_DISCORD_MU",
@@ -53,13 +56,14 @@ module.exports = {
     prefix: "-",
     isMaintenance: false
 };
+```
 
 ### 4. Berikan Izin Script Shell
-$ chmod +x start.sh
-
+```bash chmod +x start.sh
+```
 ### 5. Jalankan Bot
-$ npm start
-
+```bash npm start
+```
 ---
 
 ## 🌐 Hosting yang Disarankan
@@ -84,4 +88,4 @@ Untuk menjaga bot tetap online 24/7, gunakan layanan berikut:
 * Dilarang keras memperjualbelikan script ini tanpa izin.
 * Gunakan dengan bijak dan jangan melanggar TOS Telegram/Discord.
 
-**Copyright © 2024 iky x gemini**
+**Copyright © 2026 iky x gemini**
