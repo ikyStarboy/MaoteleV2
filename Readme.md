@@ -36,7 +36,7 @@ Pastikan kamu sudah menyiapkan:
 
 ### 1. Clone Repository
 ```bash 
-git clone https://github.com/ikyStarboy/Xiaomao-V2$](https://github.com/ikyStarboy/Xiaomao-V2
+git clone https://github.com/ikyStarboy/Xiaomao-V2
 ```
 
 ### 2. Masuk ke direktori
