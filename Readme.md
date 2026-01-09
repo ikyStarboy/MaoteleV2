@@ -14,7 +14,7 @@
 - [📝 **Note**](#-note)
 - [🔔 **Main Feature**](#-main-feature)
 - [🆙 **How to Update**](#-how-to-update)
-- [🛠️ **Requirements**](#️-preparation-before-installation)
+- [🛠️ **Requirements**](#️-preparation-before-install)
 - [💭 **Support**](#-support)
 - [📚 **How To Install**](#-how-to-install)
 - [📸 **Recommendation Hosting**](#-recommendation-hosting)
@@ -23,6 +23,7 @@
 
 <hr>
 
+## ☕ **Note**
 Xiaomao-V2 adalah bot hybrid modern yang berjalan di dua platform sekaligus: **Telegram** dan **Discord**. Dibangun dengan Node.js untuk memberikan pengalaman manajemen bot yang ringan, cepat, dan stabil.
 
 ---
@@ -52,6 +53,15 @@ Pastikan kamu sudah menyiapkan:
 3. **Bot Token Discord**: Ambil di [Discord Developer Portal](https://discord.com/developers/applications).
     * PENTING: Di bagian Bot, aktifkan semua Privileged Gateway Intents (Presence, Server Members, Message Content).
 4. **Admin ID**: Ambil ID akun kamu di Telegram dan Discord untuk akses Owner.
+
+## 💭 **Support**
+Punya Keluhan, Gk ngerti awalan, ketemu bug?? Bisa Hubungi saya di bawah ini ya(⁠✯⁠ᴗ⁠✯⁠).
+- https://discord.gg/rngVV3WCp (recommended)
+- https://facebook.com/groups/350004878030834/
+- https://wa.me/6281318293478
+- ~~t.me/KyysStoreID~~ (no longer supported)
+- ***Saya Jarang chat saya di inbox, saya suka tidak merespon karna banyak sekali pesan yang masuk, hubungi saya lewat grup dan sejenisnya.***
+
 
 ---
 
