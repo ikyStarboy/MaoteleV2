@@ -35,15 +35,21 @@ Pastikan kamu sudah menyiapkan:
 ## 📦 Cara Penginstalan (Step by Step)
 
 ### 1. Clone Repository
-```bash git clone [https://github.com/ikyStarboy/Xiaomao-V2$](https://github.com/ikyStarboy/Xiaomao-V2$) cd Xiaomao-V2
+```bash 
+git clone https://github.com/ikyStarboy/Xiaomao-V2$](https://github.com/ikyStarboy/Xiaomao-V2
 ```
 
-### 2. Install Dependencies
+### 2. Masuk ke direktori
+```bash
+ cd Xiaomao-V2
+ ```
+
+### 3. Install Dependencies
 ```bash
 npm install
 ```
 
-### 3. Konfigurasi Bot
+### 4. Konfigurasi Bot
 Edit file settings.js:
 ```bash
 module.exports = {
@@ -58,11 +64,13 @@ module.exports = {
 };
 ```
 
-### 4. Berikan Izin Script Shell
-```bash chmod +x start.sh
+### 5. Berikan Izin Script Shell
+```bash 
+chmod +x run.sh
 ```
-### 5. Jalankan Bot
-```bash npm start
+### 6. Jalankan Bot
+```bash 
+npm start
 ```
 ---
 
